@@ -1,0 +1,191 @@
+
+
+<html>
+<head>
+
+<body bgcolor="black" link="black" vlink="black" alink="black""
+<title>
+TABLA PERIODICA
+</title>
+</head>
+
+
+
+
+<center>
+<table width="575" border="1" cellspacing="2">
+  <tr align="center" valign="middle"> 
+    <th colspan="4"><b><h1><font face="Comic Sans MS"><font color=white><marquee behavior="alternate" scrolldelay="50" direction="right">TABLA PERIODICA </b></h1></th>
+  
+</table>
+
+
+<table>
+<table width="575" border="1" cellspacing="2">
+<td><a href="http://es.wikipedia.org/wiki/Hal%C3%B3geno"target="_blank"><img src="halo.jpg" height=40 width=50></td>
+<td><font color=black>............................................................................................................................................................................................................................</font></td>
+<td><a href="http://es.wikipedia.org/wiki/Helio"target="_blank"><img src="helio.jpg" height=40 width=50></td>
+</table>
+
+
+
+<table>
+<table width="575" border="1" cellspacing="2">
+<td><a href="http://es.wikipedia.org/wiki/Litio"target="_blank"><img src="li.jpg" height=40 width=50></td></a>
+<td><a href="http://es.wikipedia.org/wiki/Berilio"target="_blank"><img src="be.jpg" height=40 width=50></td></a>
+<td><font color=black>..................................................................................................................................</font></td>
+<td><a href="http://es.wikipedia.org/wiki/Boro"target="_blank"><img src="B.jpg" height=40 width=50></td></a>
+<td><a href="http://es.wikipedia.org/wiki/Carbono"target="_blank"><img src="C.jpg" height=40 width=50></td></a>
+<td><a href="http://es.wikipedia.org/wiki/Nitrogeno"target="_blank"><img src="N.jpg" height=40 width=50></td></a>
+<td><a href="http://es.wikipedia.org/wiki/Oxigeno"target="_blank"><img src="O.jpg" height=40 width=50></td></a>
+<td><a href="http://es.wikipedia.org/wiki/Fluor"target="_blank"><img src="F.jpg" height=40 width=50></td></a>
+<td><a href="http://es.wikipedia.org/wiki/Neon"target="_blank"><img src="ne.jpg" height=40 width=50></td></a>
+</table>
+
+<table>
+<table width="575" border="1" cellspacing="2">
+<td><a href="na.html"><img src="na.jpg" height=40 width=50></td></a>
+<td><img src="mg.jpg" height=40 width=50></td></a>
+<td><font color=black>..........................................................................................................................................</font></td>
+<td><img src="al.jpg" height=40 width=50></td></a>
+<td><img src="si.jpg" height=40 width=50></td></a>
+<td><img src="P.jpg" height=40 width=50></td></a>
+<td><img src="S.jpg" height=40 width=50></td></a>
+<td><img src="cl.jpg" height=40 width=50></td></a>
+<td><img src="ar.jpg" height=40 width=50></td></a>
+</table>
+
+<table>
+<table width="575" border="1" cellspacing="2">
+<td><img src="K.jpg" height=40 width=50></td>
+<td><img src="ca.jpg" height=40 width=50></td>
+<td><img src="sc.jpg" height=40 width=50></td>
+<td><img src="ti.jpg" height=40 width=50></td>
+<td><img src="V.jpg" height=40 width=50></td>
+<td><img src="cr.jpg" height=40 width=50></td>
+<td><img src="mn.jpg" height=40 width=50></td>
+<td><img src="fe.jpg" height=40 width=50></td>
+<td><img src="co.jpg" height=40 width=50></td>
+<td><img src="ni.jpg" height=40 width=50></td>
+<td><img src="cu.jpg" height=40 width=50></td>
+<td><img src="zn.jpg" height=40 width=50></td>
+<td><img src="ga.jpg" height=40 width=50></td>
+<td><img src="ge.jpg" height=40 width=50></td>
+<td><img src="as.jpg" height=40 width=50></td>
+<td><img src="se.jpg" height=40 width=50></td>
+<td><img src="br.jpg" height=40 width=50></td>
+<td><img src="kr.jpg" height=40 width=50></td>
+
+</table>
+<table>
+<table width="575" border="1" cellspacing="2">
+<td><img src="rb.jpg" height=40 width=50></td>
+<td><img src="sr.jpg" height=40 width=50></td>
+<td><img src="Y.jpg" height=40 width=50></td>
+<td><img src="zr.jpg" height=40 width=50></td>
+<td><img src="nb.jpg" height=40 width=50></td>
+<td><img src="mo.jpg" height=40 width=50></td>
+<td><img src="tc.jpg" height=40 width=50></td>
+<td><img src="ru.jpg" height=40 width=50></td>
+<td><img src="rh.jpg" height=40 width=50></td>
+<td><img src="pd.jpg" height=40 width=50></td>
+<td><img src="ag.jpg" height=40 width=50></td>
+<td><img src="cd.jpg" height=40 width=50></td>
+<td><img src="in.jpg" height=40 width=50></td>
+<td><img src="sn.jpg" height=40 width=50></td>
+<td><img src="sb.jpg" height=40 width=50></td>
+<td><img src="te.jpg" height=40 width=50></td>
+<td><img src="I.jpg" height=40 width=50></td>
+<td><img src="xe.jpg" height=40 width=50></td>
+
+</table>
+
+
+<table>
+<table width="575" border="1" cellspacing="2">
+<td><img src="cs.jpg" height=40 width=50></td>
+<td><img src="ba.jpg" height=40 width=50></td>
+<td><font color= black>............</td>
+<td><img src="hf.jpg" height=40 width=50></td>
+<td><img src="ta.jpg" height=40 width=50></td>
+<td><img src="W.jpg" height=40 width=50></td>
+<td><img src="re.jpg" height=40 width=50></td>
+<td><img src="os.jpg" height=40 width=50></td>
+<td><img src="ir.jpg" height=40 width=50></td>
+<td><img src="pt.jpg" height=40 width=50></td>
+<td><img src="au.jpg" height=40 width=50></td>
+<td><img src="hg.jpg" height=40 width=50></td>
+<td><img src="tl.jpg" height=40 width=50></td>
+<td><img src="pb.jpg" height=40 width=50></td>
+<td><img src="bi.jpg" height=40 width=50></td>
+<td><img src="po.jpg" height=40 width=50></td>
+<td><img src="at.jpg" height=40 width=50></td>
+<td><img src="rn.jpg" height=40 width=50></td>
+</table>
+
+<table>
+<table width="575" border="1" cellspacing="2">
+<td><img src="fr.jpg" height=40 width=50></td>
+<td><img src="ra.jpg" height=40 width=50></td>
+<td><font color= black>............</td>
+<td><img src="rf.jpg" height=40 width=50></td>
+<td><img src="db.jpg" height=40 width=50></td>
+<td><img src="sg.jpg" height=40 width=50></td>
+<td><img src="bh.jpg" height=40 width=50></td>
+<td><img src="hs.jpg" height=40 width=50></td>
+<td><img src="mt.jpg" height=40 width=50></td>
+<td><img src="ds.jpg" height=40 width=50></td>
+<td><img src="rg.jpg" height=40 width=50></td>
+<td><img src="uub.jpg" height=40 width=50></td>
+<td><img src="uut.jpg" height=40 width=50></td>
+<td><img src="uuq.jpg" height=40 width=50></td>
+<td><img src="uup.jpg" height=40 width=50></td>
+<td><img src="uuh.jpg" height=40 width=50></td>
+<td><img src="uus.jpg" height=40 width=50></td>
+<td><img src="uuo.jpg" height=40 width=50></td>
+
+</table>
+
+
+<br>
+
+
+<table>
+<table width="575" border="6" cellspacing="2">
+<td><img src="la.jpg" height=40 width=50></td>
+<td><img src="ce.jpg" height=40 width=50></td>
+<td><img src="pr.jpg" height=40 width=50></td>
+<td><img src="nd.jpg" height=40 width=50></td>
+<td><img src="pm.jpg" height=40 width=50></td>
+<td><img src="sm.jpg" height=40 width=50></td>
+<td><img src="eu.jpg" height=40 width=50></td>
+<td><img src="gd.jpg" height=40 width=50></td>
+<td><img src="tb.jpg" height=40 width=50></td>
+<td><img src="dy.jpg" height=40 width=50></td>
+<td><img src="ho.jpg" height=40 width=50></td>
+<td><img src="er.jpg" height=40 width=50></td>
+<td><img src="tm.jpg" height=40 width=50></td>
+<td><img src="yb.jpg" height=40 width=50></td>
+<td><img src="lu.jpg" height=40 width=50></td>
+</table>
+
+<table>
+<table width="575" border="6" cellspacing="2">
+<td><img src="ac.jpg" height=40 width=50></td>
+<td><img src="th.jpg" height=40 width=50></td>
+<td><img src="pa.jpg" height=40 width=50></td>
+<td><img src="U.jpg" height=40 width=50></td>
+<td><img src="np.jpg" height=40 width=50></td>
+<td><img src="pu.jpg" height=40 width=50></td>
+<td><img src="am.jpg" height=40 width=50></td>
+<td><img src="cm.jpg" height=40 width=50></td>
+<td><img src="bk.jpg" height=40 width=50></td>
+<td><img src="cf.jpg" height=40 width=50></td>
+<td><img src="es.jpg" height=40 width=50></td>
+<td><img src="fm.jpg" height=40 width=50></td>
+<td><img src="md.jpg" height=40 width=50></td>
+<td><img src="no.jpg" height=40 width=50></td>
+<td><img src="lr.jpg" height=40 width=50></td>
+</table>
+
+

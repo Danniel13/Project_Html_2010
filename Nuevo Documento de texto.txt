@@ -1,0 +1,26 @@
+<html>
+<head>
+<title> GERMANIO </title>
+</head>
+
+<body link="white" vlink="white" alink="red">
+
+<body background="fondo.jpg"> 
+<p>
+
+
+<h1> <b><center> <FONT FACE="Comic Sans MS" color=BLUE ICE> GERMANIO: </h1> </b> </font></font>
+
+<img src="zinc.jpg" width=160 alt="SOD" height=210 align=right> 
+
+<font color="WHITE"><div style="text-align:justify"> <FONT FACE="arial"> <h2>Es un metaloide sólido duro, cristalino, de color blanco grisáceo lustroso, quebradizo, que conserva el brillo a temperaturas ordinarias. Presenta la misma estructura cristalina que el diamante y resiste a los ácidos y álcalis.
+
+Forma gran número de compuestos organometálicos y es un importante material semiconductor utilizado en transistores y fotodetectores. A diferencia de la mayoría de semiconductores, el germanio tiene una pequeña banda prohibida (band gap) por lo que responde de forma eficaz a la radiación infrarroja y puede usarse en amplificadores de baja intensidad.</H2>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<p><h4><b><FONT FACE="Comic Sans MS" color="white"> <A HREF="tabla.html"><IMG SRC="izq.gif" "BORDER= WIDTH=60 HEIGH=50"> Ir a página principal </li> </A>
