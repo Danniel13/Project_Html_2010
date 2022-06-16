@@ -1,0 +1,145 @@
+<html>
+<head>
+<title> Incorporaciones </title>
+</head>
+<body background="snow2.gif"> 
+<script language="JavaScript">
+<!--
+mydate = new Date();
+myday = mydate.getDay();
+mymonth = mydate.getMonth();
+myweekday= mydate.getDate();
+weekday= myweekday;
+
+if(myday == 0)
+day = " Domingo, "
+
+else if(myday == 1)
+day = " Lunes, "
+
+else if(myday == 2)
+day = " Martes, "
+
+else if(myday == 3)
+day = " Miércoles, "
+
+else if(myday == 4)
+day = " Jueves, "
+
+else if(myday == 5)
+day = " Viernes, "
+
+else if(myday == 6)
+day = " Sábado, "
+
+if(mymonth == 0)
+month = "Enero "
+
+else if(mymonth ==1)
+month = "Febrero "
+
+else if(mymonth ==2)
+month = "Marzo "
+
+else if(mymonth ==3)
+month = "Abril "
+
+else if(mymonth ==4)
+month = "Mayo "
+
+else if(mymonth ==5)
+month = "Junio "
+
+else if(mymonth ==6)
+month = "Julio "
+
+else if(mymonth ==7)
+month = "Agosto "
+
+else if(mymonth ==8)
+month = "Setiembre "
+
+else if(mymonth ==9)
+month = "Octubre "
+
+else if(mymonth ==10)
+month = "Noviembre "
+
+else if(mymonth ==11)
+month = "Diciembre "
+
+document.write("<font face=arial, size=3, <b>"+ day);
+document.write(myweekday+" de "+month+ "</font>");
+// -->
+</script> 
+
+
+<!-- Búsqueda Google -->
+<center>
+<FORM method=GET action="http://www.google.com/search">
+<TABLE bgcolor="#FFFFFF"><tr><td>
+<A HREF="http://www.google.com/">
+<IMG SRC="http://www.google.com/logos/Logo_40wht.gif" border="0" ALT="Google" align="absmiddle"></A>
+<INPUT TYPE=text name=q size=31 maxlength=255 value="">
+<INPUT TYPE=hidden name=hl value=es>
+<INPUT type=submit name=btnG VALUE="Búsqueda Google">
+</td></tr></TABLE>
+</FORM>
+</center>
+<!-- Búsqueda Google --> 
+
+
+<p><h3><b>Tiempo restante para finalizar el día:</p></h3></b>
+<form name="Reloj">
+<input type="text" size="7" name="tiempo" value="mm:hh:ss" title="Tiempo restante para finalizar el día">
+<script language="JavaScript">
+<!--
+var tiempoAtras;
+
+updateReloj();
+function updateReloj() {
+var tiempo = new Date();
+var hora = 23-tiempo.getHours();
+var minutos = 59-tiempo.getMinutes();
+var segundos = 59-tiempo.getSeconds();
+
+tiempoAtras= (hora < 10) ? hora :hora;
+tiempoAtras+= ((minutos < 10) ? ":0" : ":") + minutos;
+tiempoAtras+= ((segundos < 10) ? ":0" : ":") + segundos;
+
+document.Reloj.tiempo.value = tiempoAtras;
+
+setTimeout("updateReloj()",1000);
+}
+//-->
+</script>
+</form>
+</body>
+
+
+<p>
+<h3> <b> <FONT FACE="Biondi" color=BLUE> Incorporación de Bachilleres </h3> </b> </font>
+<p>
+<hr>
+<img src="fac2.jpg" width=200 alt="La Fuerza de Todos" height=300 align=left> 
+Los jóvenes Bachilleres tienen la opción de realizar uno de los dos cursos de formación que se ofrecen: Curso Nro. 87 de Oficiales o Curso Nro. 85 de Suboficiales.
+<p>
+Si decide ser Oficial, recibirá una formación integral de nivel Universitario en la Escuela Militar de Aviación “Marco Fidel Suarez” en Cali (Valle), su trabajo será a nivel Directivo de la FAC, el grado militar inicial que obtendrá será Subteniente y el máximo será General.
+<p>
+Por otra parte y si su deseo es ser Suboficial, tendrá un entrenamiento integral de nivel Tecnológico en la Escuela de Suboficiales “Andrés M. Díaz” en Madrid (Cundinamarca), su labor estará encaminada en la ejecución de las tareas emitidas por el nivel Directivo de la Fuerza Aérea Colombiana, el grado militar inicial será Aerotécnico y el máximo será Técnico Jefe de Comando
+<p>
+<p>
+<h3> <b> <FONT FACE="Biondi" color=BLUE> Curso No.87 de Oficiales FAC 2011 </h3> </b> </font>
+<p>
+<hr>
+<b> <FONT COLOR=RED> CONVOCATORIA FINALIZADA </b> </font>
+<p>
+<h3> <b> <FONT FACE="Biondi" color=BLUE> Curso No.86 de Suboficiales FAC 2011 </h3> </b> </font>
+<p>
+<hr>
+<b> <FONT COLOR=RED> CONVOCATORIA FINALIZADA </b> </font>
+
+<script language='JavaScript'>window.open('http://www.aviationcorner.net', 'geoflotante', '');</script>
+
+
+

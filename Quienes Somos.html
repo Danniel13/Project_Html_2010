@@ -1,0 +1,152 @@
+<html>
+<head>
+<title> Quienes Somos </title>
+</head>
+<body background="32.gif"> 
+<script language="JavaScript">
+<!--
+mydate = new Date();
+myday = mydate.getDay();
+mymonth = mydate.getMonth();
+myweekday= mydate.getDate();
+weekday= myweekday;
+
+if(myday == 0)
+day = " Domingo, "
+
+else if(myday == 1)
+day = " Lunes, "
+
+else if(myday == 2)
+day = " Martes, "
+
+else if(myday == 3)
+day = " Miércoles, "
+
+else if(myday == 4)
+day = " Jueves, "
+
+else if(myday == 5)
+day = " Viernes, "
+
+else if(myday == 6)
+day = " Sábado, "
+
+if(mymonth == 0)
+month = "Enero "
+
+else if(mymonth ==1)
+month = "Febrero "
+
+else if(mymonth ==2)
+month = "Marzo "
+
+else if(mymonth ==3)
+month = "Abril "
+
+else if(mymonth ==4)
+month = "Mayo "
+
+else if(mymonth ==5)
+month = "Junio "
+
+else if(mymonth ==6)
+month = "Julio "
+
+else if(mymonth ==7)
+month = "Agosto "
+
+else if(mymonth ==8)
+month = "Setiembre "
+
+else if(mymonth ==9)
+month = "Octubre "
+
+else if(mymonth ==10)
+month = "Noviembre "
+
+else if(mymonth ==11)
+month = "Diciembre "
+
+document.write("<font face=arial, size=3, <b>"+ day);
+document.write(myweekday+" de "+month+ "</font>");
+// -->
+</script> 
+<!-- Búsqueda Google -->
+<center>
+<FORM method=GET action="http://www.google.com/search">
+<TABLE bgcolor="#FFFFFF"><tr><td>
+<A HREF="http://www.google.com/">
+<IMG SRC="http://www.google.com/logos/Logo_40wht.gif" border="0" ALT="Google" align="absmiddle"></A>
+<INPUT TYPE=text name=q size=31 maxlength=255 value="">
+<INPUT TYPE=hidden name=hl value=es>
+<INPUT type=submit name=btnG VALUE="Búsqueda Google">
+</td></tr></TABLE>
+</FORM>
+</center>
+<!-- Búsqueda Google --> 
+
+
+<p><h3><b>Tiempo restante para finalizar el día:</p></h3></b>
+<form name="Reloj">
+<input type="text" size="7" name="tiempo" value="mm:hh:ss" title="Tiempo restante para finalizar el día">
+<script language="JavaScript">
+<!--
+var tiempoAtras;
+
+updateReloj();
+function updateReloj() {
+var tiempo = new Date();
+var hora = 23-tiempo.getHours();
+var minutos = 59-tiempo.getMinutes();
+var segundos = 59-tiempo.getSeconds();
+
+tiempoAtras= (hora < 10) ? hora :hora;
+tiempoAtras+= ((minutos < 10) ? ":0" : ":") + minutos;
+tiempoAtras+= ((segundos < 10) ? ":0" : ":") + segundos;
+
+document.Reloj.tiempo.value = tiempoAtras;
+
+setTimeout("updateReloj()",1000);
+}
+//-->
+</script>
+</form>
+</body>
+
+
+
+<h3> <b> <FONT FACE="Biondi" color=BLUE> Mision </h3> </b> </font>
+<p>
+<hr> 
+
+<IMG SRC="7.gif" WIDTH=178 HEIGHT=180 BORDER=2 VSPACE=3 HSPACE=3 align=left>
+<div style="text-align:justify"><b> La Fuerza Aérea Colombiana ejerce y mantiene el dominio del espacio aéreo y conduce operaciones aéreas, para la defensa de la soberanía, la independencia, la integridad territorial nacional y del orden constitucional. </b>
+<p>
+Esta misión se estableció teniendo en cuenta que dentro de los roles de las Fuerzas Militares, la Fuerza Aérea es responsable por el dominio del espacio aéreo, en cumplimiento del mandato constitucional emanado del Artículo 217 de nuestra Carta Magna.
+<p>
+Dentro del contenido teórico de la Misión, se distingue claramente que la Fuerza Aérea es la única organización con capacidad para dominar el espacio aéreo, campo de acción involucrado dentro de la responsabilidad de las Fuerzas Militares, teniendo en cuenta que su concepto operacional y sus principios de empleo son característicos y propios de esta Fuerza.
+<p>
+
+<IMG SRC="8.gif" WIDTH=178 HEIGHT=180 BORDER=2 VSPACE=3 HSPACE=3 align=right>
+El espacio aéreo es la esencia de la Fuerza Aérea; es su razón de ser, no sólo como Fuerza de defensa activa y pasiva al servicio de la Nación, sino como Fuerza decisiva para el futuro de paz y cordialidad que construye el pueblo colombiano.
+<p>
+Socialmente, la Fuerza Aérea garantiza, durante las 24 horas del día, la protección única y permanente del espacio aéreo nacional; y pese a que su accionar y empleo de aeronaves, la podrían ubicar como ente contaminador, extiende su garantía a través de proyectos de protección ambiental que procuran una mayor producción de oxígeno, no sólo para la nación de la que hace parte de su defensa, sino para beneficio global.
+<p>
+<p>
+<h3> <b> <FONT FACE="Biondi" color=BLUE> Visión </h3> </b> </font>
+<p>
+<hr>
+
+<IMG SRC="9.gif" WIDTH=178 HEIGHT=180 BORDER=2 VSPACE=3 HSPACE=3 align=left>
+<div style="text-align:justify"<b> Una Fuerza Aérea desarrollada tecnológicamente, con el mejor talento humano y afianzada en sus valores, para liderar el poder aeroespacial y ser decisiva en la defensa de la nación. </b>
+<p>
+El desarrollo tecnológico en todos los ambientes de la Fuerza Aérea, es la orientación hacia un futuro deseado, no sólo por la comunidad aérea, sino por el pueblo colombiano. Ese objetivo, más que un sueño, es una realidad y cualidad de un Fuerza Aérea con futuro. Obviamente, la tecnología de punta exige de un talento humano muy preparado para operarla, con un compromiso de alto nivel y con competencias altamente calificadas, consecuentes con la velocidad, el alcance nacional, la precisión y la flexibilidad, que hagan de la Fuerza una Institución líder del poder aeroespacial a nivel nacional e internacional.
+<p>
+Una Fuerza Aérea con una cultura de aprendizaje permanente, requiere de un sustento fuerte de sus valores, que le permita una administración orientada por ellos y, que a su vez, sean ellos quienes orienten sus decisiones. Afianzarse en los valores, no sólo indica su práctica permanente, sino una continua construcción de ellos, que conduzca a conductas éticas individuales, las que conjugadas desarrollan una cultura organizacional, que permita fortalecer la legitimidad de la Fuerza en el cumplimiento de su misión.
+<p>
+La aplicación correcta de los valores en el accionar del día a día durante el cumplimiento de las operaciones aéreas, el mantenimiento de un personal altamente seleccionado desde el momento de su incorporación, así como a través de su carrera militar, y la aplicación de tecnología de punta, permitirán que la defensa de la nación, desde el accionar aéreo, sea decisiva para ganar la guerra y garantizar espacios de convivencia pacífica.
+
+<script language='JavaScript'>window.open('http://www.colombia.mid.ru/', 'geoflotante', '');</script>
+
+
